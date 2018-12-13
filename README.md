@@ -8,7 +8,7 @@ Stolen bikes are a typical problem in Berlin. The Police want to be more efficie
 1. Police have multiple departments that are responsible for stolen bikes. 
 1. A department can have some amount of police officers who can work on stolen bike cases.
 1. The Police can scale their number of departments, and can increase the number of police officers per department.
-1. Each police officer should be able to search bikes by different characteristics in a database and see which department is 1. responsible for a stolen bike case.
+1. Each police officer should be able to search bikes by different characteristics in a database and see which department is responsible for a stolen bike case.
 1. New stolen bike cases should be automatically assigned to any free police officer in any department.  
 1. A police officer can only handle one stolen bike case at a time. 
 1. When the Police find a bike, the case is marked as resolved and the responsible police officer becomes available to take a new stolen bike case. 
